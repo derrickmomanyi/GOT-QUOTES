@@ -43,7 +43,7 @@
             "name": "House Lannister of Casterly Rock"
         },
         "quotes": [
-            "The things I do for love.",
+            "The things I do for love."
         ]
     },
     { "id": 7,
@@ -166,5 +166,6 @@
             "Every man must die, Jon Snow. but first, he must live"
         ]
     }
-]
+  ]
 }
+
